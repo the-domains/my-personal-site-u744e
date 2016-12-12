@@ -12,6 +12,8 @@ color:
     - '#004E98'
 github: true
 layout_spectrum: 0.8589395873714238
+analytics:
+  twitter: chav_ez
 author:
   name: Mark Chavez
   email: mark@giantmonster.co
