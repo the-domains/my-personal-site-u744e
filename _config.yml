@@ -1,0 +1,32 @@
+typography_spectrum: 0.6339049383532256
+color:
+  brandStrength: 0.3789111920632422
+  lightness: 0.8540949679445475
+  saturation: 0.170249804854393
+  rhythmicContrast: 0.7038135237526149
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+github: true
+layout_spectrum: 0.8589395873714238
+author:
+  name: Mark Chavez
+  email: mark@giantmonster.co
+  url: 'http://www.giantmonster.co'
+name: My Personal Site
+navigation:
+  - name: Academic site
+    url: 'http://www.markchavez.guru'
+    type: external
+  - name: Visual Analysis
+    url: 'http://visual-analysis.com/'
+    type: external
+  - name: Clone3D
+    url: 'http://clone3d.net/'
+    type: external
+title: Research in Art and Animation
+content: []
+description: an academic exploration in artistic practice
