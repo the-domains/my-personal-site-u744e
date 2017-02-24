@@ -54,7 +54,6 @@ content:
       description: >-
         This is "06_AlanWalker" by Mark Chavez on Vimeo, the home for high
         quality videos and the people who love them.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vimeo://app.vimeo.com/videos/201492885'
@@ -91,3 +90,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: an academic exploration in artistic practice
+purpose:
+  - type: external
+    url: 'https://vimeo.com/mchavez'
+    label: VIMEO movies
